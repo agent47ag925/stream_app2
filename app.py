@@ -10,6 +10,7 @@ import streamlit as st
 
 st.title('ChatGPT with Streamlit')
 st.write('This is a simple chatbot interface using Streamlit and OpenAI GPT-3.')
+st.write("생성형 AI와 LLM으로 만드는 신기한 챗봇")
 
 # # 객체 생성
 # llm = ChatOpenAI(
